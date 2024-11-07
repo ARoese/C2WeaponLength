@@ -3,7 +3,7 @@
   "name": "WeaponLength",
   "description": "Test the length of weapons using continuous binary search",
   "mod_type": "Shared",
-  "authors": [ "DrLong" ],
+  "authors": [ "DrLong", "JayKobe6k" ],
   "dependencies": [],
   "tags": [ "Map" ]
 }
